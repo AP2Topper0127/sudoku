@@ -24,7 +24,7 @@ I've also developed an app in React Native for developers called Reinhard, wish 
 ![Android version](./resource/qrcode-android.png)
 
 ## Resources
-1. sudoku generator: https://github.com/dachev/sudoku, just replace `underscore` with `lodash`
+1. sudoku generator: https://github.com/ap2topper0127/sudoku, just replace `underscore` with `lodash`
 2. all the icons are downloaded from http://www.iconfont.cn/ 
 3. use [LeanCloud](https://leancloud.cn/) to store the online scores
 
